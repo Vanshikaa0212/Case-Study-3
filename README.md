@@ -117,42 +117,6 @@ The notebook generates:
 
 These outputs help explore customer behavior and identify groups with different purchasing patterns.
 
-## 🚀 How to Run the Project
-
-### Step 1: Clone the repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-Replace `YOUR_REPOSITORY_URL` with your GitHub repository URL.
-
-### Step 2: Open the project folder
-
-```bash
-cd Customer-Segmentation
-```
-
-### Step 3: Install the required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
-
-### Step 4: Add the dataset
-
-Place `OnlineRetail.csv` inside the `Dataset` folder.
-
-Ensure that the dataset path matches the path used in the notebook:
-
-```python
-df = pd.read_csv("Dataset/OnlineRetail.csv", encoding="latin1")
-```
-
-### Step 5: Run the notebook
-
-Open `Customer_Segmentation.ipynb` in VS Code with the Jupyter extension installed, and execute the cells in order.
-
 ## 💡 Applications
 
 Customer segmentation can help businesses:
