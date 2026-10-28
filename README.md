@@ -1,5 +1,4 @@
 # Customer_Segmentation
-# Customer Segmentation Using Machine Learning
 
 ## 📌 Project Overview
 
